@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.carina.web.dao.SignupDAO">
+	<insert id="saveUser" 	parameterType="SignupDTO">
+		INSERT INTO Member_Information
+        (id, password, name, gender, nickname, email, date_of_birth, phone_number, address, join_date)
+        VALUES(#{id},#{password},#{name},#{gender},#{nickname},#{email},#{date_of_birth},#{phone_number},
+        #{address},#{join_date});
+	
+	
+	</insert>
+	
+	
+
+</mapper>

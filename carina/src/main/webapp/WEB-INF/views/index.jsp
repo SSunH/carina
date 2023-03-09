@@ -198,7 +198,7 @@ function calculatePrice(period){
 
 	<nav class="navbar navbar-expand-lg ">
 		<div class="container-fluid">
-			<img src="/img/index.png" alt="Logo" width="40" height="40"
+			<img src="/img/index/index.png" alt="Logo" width="40" height="40"
 				class="d-inline-block align-text-top"> <a class="navbar-brand"
 				href="#">&nbsp카리나</a>
 
@@ -218,7 +218,7 @@ function calculatePrice(period){
 			</div>
 		</div>
 	</nav>
-	<img src="/img/header.jpg" class="m4">
+	<img src="/img/index/header.jpg" class="m4">
 
 	<h2 class="text1">모델 검색</h2>
 
@@ -269,20 +269,20 @@ function calculatePrice(period){
 		<div class="swiper-wrapper">
 			<div class="swiper-slide">
 				<button class="btn" id="alertStart">
-					<img src="/img/rs7.png">
+					<img src="/img/index/rs7.png">
 				</button>
 			</div>
 			<div class="swiper-slide">
-				<img src="/img/carina.jpg">
+				<img src="/img/index/carina.jpg">
 			</div>
 			<div class="swiper-slide">
-				<img src="/img/carina2.jpg">
+				<img src="/img/index/carina2.jpg">
 			</div>
 			<div class="swiper-slide">
-				<img src="/img/gt43.jpeg">
+				<img src="/img/index/gt43.jpeg">
 			</div>
 			<div class="swiper-slide">
-				<img src="/img/gt43.jpeg">
+				<img src="/img/index/gt43.jpeg">
 			</div>
 			<div class="swiper-slide">Slide 6</div>
 			<div class="swiper-slide">Slide 7</div>
@@ -294,13 +294,13 @@ function calculatePrice(period){
 
 	<div class="picall">
 		<div class="pic1">
-			<img src="/img/rs7.png" width="400" height="450">
+			<img src="/img/index/rs7.png" width="400" height="450">
 		</div>
 		<div class="pic1">
-			<img src="/img/gt43.jpeg" width="400" height="450">
+			<img src="/img/index/gt43.jpeg" width="400" height="450">
 		</div>
 		<div class="pic1">
-			<img src="/img/avan.jpg" width="400" height="450">
+			<img src="/img/index/avan.jpg" width="400" height="450">
 		</div>
 	
 
